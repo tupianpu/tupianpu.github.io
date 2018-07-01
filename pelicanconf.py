@@ -21,12 +21,11 @@ RSS_FEED_SUMMARY_ONLY = False
 # Blogroll
 LINKS = (('飞飞机', 'http://feifeiji.com/'),
          ('图片谱', 'http://tupianpu.com/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 STATIC_PATHS = ['images']
