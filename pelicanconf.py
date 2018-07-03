@@ -29,7 +29,7 @@ LINKS = (('飞飞机', 'http://feifeiji.com/'),
 
 DEFAULT_PAGINATION = 10
 STATIC_PATHS = ['images']
-THEME = 'new-bootstrap2'
+THEME = 'new-bootstrap'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
